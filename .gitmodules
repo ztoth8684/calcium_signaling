@@ -1,3 +1,6 @@
 [submodule "CalciumZero"]
 	path = CalciumZero
 	url = https://github.com/kmendio2-crypto/CalciumZero
+[submodule "bMPS_analysis_tools"]
+	path = bMPS_analysis_tools
+	url = https://github.com/kmendio2-crypto/bMPS_analysis_tools
